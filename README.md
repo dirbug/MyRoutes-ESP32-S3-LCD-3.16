@@ -1,9 +1,9 @@
 # MyRoutes-ESP32-S3-LCD-3.16
 MyRoutes London Bus Arrivals on ESP32
-Link to device Wiki: https://www.waveshare.com/wiki/ESP32-S3-LCD-3.16
-Link to My Routes Android App: https://play.google.com/store/apps/details?id=com.htfl.myroutes
-Serial terminal: https://googlechromelabs.github.io/serial-terminal/
-Lessons learnt:
+
+- Link to device Wiki: https://www.waveshare.com/wiki/ESP32-S3-LCD-3.16
+- Link to My Routes Android App: https://play.google.com/store/apps/details?id=com.htfl.myroutes
+- Serial terminal: https://googlechromelabs.github.io/serial-terminal/
 
 # Lessons Learned: ESP32 Bus Tracker Development
 
